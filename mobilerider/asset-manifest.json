@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/mobilerider/static/css/main.2e8e265a.chunk.css",
-    "main.js": "/mobilerider/static/js/main.e30e7b28.chunk.js",
-    "main.js.map": "/mobilerider/static/js/main.e30e7b28.chunk.js.map",
-    "runtime-main.js": "/mobilerider/static/js/runtime-main.81db839f.js",
-    "runtime-main.js.map": "/mobilerider/static/js/runtime-main.81db839f.js.map",
-    "static/css/2.0f87f62a.chunk.css": "/mobilerider/static/css/2.0f87f62a.chunk.css",
-    "static/js/2.db12e8f6.chunk.js": "/mobilerider/static/js/2.db12e8f6.chunk.js",
-    "static/js/2.db12e8f6.chunk.js.map": "/mobilerider/static/js/2.db12e8f6.chunk.js.map",
+    "main.css": "/mobilerider/static/css/main.842a0aca.chunk.css",
+    "main.js": "/mobilerider/static/js/main.8ef7e5bb.chunk.js",
+    "main.js.map": "/mobilerider/static/js/main.8ef7e5bb.chunk.js.map",
+    "runtime-main.js": "/mobilerider/static/js/runtime-main.327bb0f0.js",
+    "runtime-main.js.map": "/mobilerider/static/js/runtime-main.327bb0f0.js.map",
+    "static/css/2.f691bf1e.chunk.css": "/mobilerider/static/css/2.f691bf1e.chunk.css",
+    "static/js/2.3f1d4c40.chunk.js": "/mobilerider/static/js/2.3f1d4c40.chunk.js",
+    "static/js/2.3f1d4c40.chunk.js.map": "/mobilerider/static/js/2.3f1d4c40.chunk.js.map",
     "index.html": "/mobilerider/index.html",
-    "precache-manifest.5656db067872e169a8c4a2ff56da1fd2.js": "/mobilerider/precache-manifest.5656db067872e169a8c4a2ff56da1fd2.js",
+    "precache-manifest.19062a7d8adb3ec3c19f8210596af01b.js": "/mobilerider/precache-manifest.19062a7d8adb3ec3c19f8210596af01b.js",
     "service-worker.js": "/mobilerider/service-worker.js",
-    "static/css/2.0f87f62a.chunk.css.map": "/mobilerider/static/css/2.0f87f62a.chunk.css.map",
-    "static/css/main.2e8e265a.chunk.css.map": "/mobilerider/static/css/main.2e8e265a.chunk.css.map",
-    "static/media/index.scss": "/mobilerider/static/media/u2.f981ca03.jpg",
-    "static/media/mobilerider-logo-dark.svg": "/mobilerider/static/media/mobilerider-logo-dark.efbaea30.svg",
-    "static/media/mobilerider-logo.svg": "/mobilerider/static/media/mobilerider-logo.f65a5c84.svg",
-    "static/media/slc.jpg": "/mobilerider/static/media/slc.8bfde149.jpg"
+    "static/css/2.f691bf1e.chunk.css.map": "/mobilerider/static/css/2.f691bf1e.chunk.css.map",
+    "static/css/main.842a0aca.chunk.css.map": "/mobilerider/static/css/main.842a0aca.chunk.css.map",
+    "static/js/2.3f1d4c40.chunk.js.LICENSE.txt": "/mobilerider/static/js/2.3f1d4c40.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/mobilerider/static/media/u2.f981ca03.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81db839f.js",
-    "static/css/2.0f87f62a.chunk.css",
-    "static/js/2.db12e8f6.chunk.js",
-    "static/css/main.2e8e265a.chunk.css",
-    "static/js/main.e30e7b28.chunk.js"
+    "static/js/runtime-main.327bb0f0.js",
+    "static/css/2.f691bf1e.chunk.css",
+    "static/js/2.3f1d4c40.chunk.js",
+    "static/css/main.842a0aca.chunk.css",
+    "static/js/main.8ef7e5bb.chunk.js"
   ]
 }

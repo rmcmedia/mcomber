@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1bb744d9c3b41a1df6876ff4ad8c9c1",
+    "revision": "728ef1a480e4f02dfeb79548e39e5fda",
     "url": "/mobilerider/index.html"
   },
   {
-    "revision": "e311d8ada86ee9ebe523",
-    "url": "/mobilerider/static/css/2.0f87f62a.chunk.css"
+    "revision": "cee82d2ddc9efb2eed11",
+    "url": "/mobilerider/static/css/2.f691bf1e.chunk.css"
   },
   {
-    "revision": "ffafd3638a7f6cbc1645",
-    "url": "/mobilerider/static/css/main.2e8e265a.chunk.css"
+    "revision": "0194b0f83121f6a5fba0",
+    "url": "/mobilerider/static/css/main.842a0aca.chunk.css"
   },
   {
-    "revision": "e311d8ada86ee9ebe523",
-    "url": "/mobilerider/static/js/2.db12e8f6.chunk.js"
+    "revision": "cee82d2ddc9efb2eed11",
+    "url": "/mobilerider/static/js/2.3f1d4c40.chunk.js"
   },
   {
-    "revision": "ffafd3638a7f6cbc1645",
-    "url": "/mobilerider/static/js/main.e30e7b28.chunk.js"
+    "revision": "bfc08a62983de46a4daec9f8c3c657d8",
+    "url": "/mobilerider/static/js/2.3f1d4c40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d164c148712cc70251f5",
-    "url": "/mobilerider/static/js/runtime-main.81db839f.js"
+    "revision": "0194b0f83121f6a5fba0",
+    "url": "/mobilerider/static/js/main.8ef7e5bb.chunk.js"
+  },
+  {
+    "revision": "cca9e52c064555d35167",
+    "url": "/mobilerider/static/js/runtime-main.327bb0f0.js"
   },
   {
     "revision": "b31e518d87db664c1324f53759b5d0b9",
@@ -52,10 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobilerider/static/media/mobilerider-logo-dark.efbaea30.svg"
   },
   {
-    "revision": "f65a5c8439f04627d735e44ccf943284",
-    "url": "/mobilerider/static/media/mobilerider-logo.f65a5c84.svg"
-  },
-  {
     "revision": "950df1e49077b87a90ec0b1c29a70617",
     "url": "/mobilerider/static/media/partners.950df1e4.png"
   },
@@ -82,6 +82,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8bfde149a80b9d5813e2b6d54d959d6f",
     "url": "/mobilerider/static/media/slc.8bfde149.jpg"
+  },
+  {
+    "revision": "7b5abddbd30da72d153108dc90e768b4",
+    "url": "/mobilerider/static/media/u2-1.7b5abddb.jpg"
+  },
+  {
+    "revision": "7ccd501cdc7d6e8c8cb360b97ce35fee",
+    "url": "/mobilerider/static/media/u2-2.7ccd501c.jpg"
+  },
+  {
+    "revision": "4f9b4ab5b1d6bb4a9166f66bdb77d3d3",
+    "url": "/mobilerider/static/media/u2-3.4f9b4ab5.jpg"
   },
   {
     "revision": "f981ca039929b31d7f5bed50a4c81a8f",
