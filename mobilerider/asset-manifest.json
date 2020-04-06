@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ac9d9ae.chunk.css",
-    "main.js": "/static/js/main.ce613eee.chunk.js",
-    "main.js.map": "/static/js/main.ce613eee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.43857f4e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.43857f4e.js.map",
-    "static/css/2.f691bf1e.chunk.css": "/static/css/2.f691bf1e.chunk.css",
-    "static/js/2.34f93e2c.chunk.js": "/static/js/2.34f93e2c.chunk.js",
-    "static/js/2.34f93e2c.chunk.js.map": "/static/js/2.34f93e2c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0661fd9b70252ea7eb46c96854f86ebc.js": "/precache-manifest.0661fd9b70252ea7eb46c96854f86ebc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.f691bf1e.chunk.css.map": "/static/css/2.f691bf1e.chunk.css.map",
-    "static/css/main.5ac9d9ae.chunk.css.map": "/static/css/main.5ac9d9ae.chunk.css.map",
-    "static/js/2.34f93e2c.chunk.js.LICENSE.txt": "/static/js/2.34f93e2c.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/u2.f981ca03.jpg"
+    "main.css": "/mobilerider/static/css/main.014bccf2.chunk.css",
+    "main.js": "/mobilerider/static/js/main.ce613eee.chunk.js",
+    "main.js.map": "/mobilerider/static/js/main.ce613eee.chunk.js.map",
+    "runtime-main.js": "/mobilerider/static/js/runtime-main.327bb0f0.js",
+    "runtime-main.js.map": "/mobilerider/static/js/runtime-main.327bb0f0.js.map",
+    "static/css/2.f691bf1e.chunk.css": "/mobilerider/static/css/2.f691bf1e.chunk.css",
+    "static/js/2.ae53825c.chunk.js": "/mobilerider/static/js/2.ae53825c.chunk.js",
+    "static/js/2.ae53825c.chunk.js.map": "/mobilerider/static/js/2.ae53825c.chunk.js.map",
+    "index.html": "/mobilerider/index.html",
+    "precache-manifest.70df880734eac9cc1bd6c59265486439.js": "/mobilerider/precache-manifest.70df880734eac9cc1bd6c59265486439.js",
+    "service-worker.js": "/mobilerider/service-worker.js",
+    "static/css/2.f691bf1e.chunk.css.map": "/mobilerider/static/css/2.f691bf1e.chunk.css.map",
+    "static/css/main.014bccf2.chunk.css.map": "/mobilerider/static/css/main.014bccf2.chunk.css.map",
+    "static/js/2.ae53825c.chunk.js.LICENSE.txt": "/mobilerider/static/js/2.ae53825c.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/mobilerider/static/media/u2.f981ca03.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.43857f4e.js",
+    "static/js/runtime-main.327bb0f0.js",
     "static/css/2.f691bf1e.chunk.css",
-    "static/js/2.34f93e2c.chunk.js",
-    "static/css/main.5ac9d9ae.chunk.css",
+    "static/js/2.ae53825c.chunk.js",
+    "static/css/main.014bccf2.chunk.css",
     "static/js/main.ce613eee.chunk.js"
   ]
 }
